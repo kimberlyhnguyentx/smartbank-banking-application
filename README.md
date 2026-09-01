@@ -42,6 +42,27 @@ Review recorded deposits and withdrawals through the application's transaction h
 - Object-Oriented Programming (OOP)
 - Eclipse IDE
 
+## How to Run
+
+### Requirements
+
+- Java Development Kit (JDK) 21
+- JavaFX SDK
+- A Java IDE such as Eclipse or IntelliJ IDEA
+
+### Setup
+
+1. Clone or download this repository.
+2. Open the project in your preferred Java IDE.
+3. Configure the project to use JDK 21.
+4. Add the JavaFX SDK `lib` folder to the project's module path.
+5. Run `Main.java` located in `src/application/`.
+
+If JavaFX is not configured automatically, add the following VM arguments and replace the path with the location of your JavaFX SDK:
+
+```text
+--module-path "path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.fxml
+
 ## Object-Oriented Programming Concepts
 
 This project demonstrates several core object-oriented programming concepts:
