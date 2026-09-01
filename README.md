@@ -2,6 +2,28 @@
 
 SmartBank is a desktop banking application developed in Java using JavaFX. The project was created to apply object-oriented programming concepts while simulating common banking operations such as account creation, deposits, withdrawals, and transaction tracking.
 
+## Application Preview
+
+### Create Account
+Create savings or credit accounts by entering the account holder's information, starting balance, and account-specific requirements.
+
+![Create Account](screenshots/create-account.png)
+
+### Deposit & Withdraw
+Perform deposits and withdrawals for existing accounts through the transaction interface.
+
+![Deposit and Withdraw](screenshots/deposit-withdraw.png)
+
+### View Accounts
+View account information, account types, balances, and other account details.
+
+![View Accounts](screenshots/view-accounts.png)
+
+### Transaction History
+Review recorded deposits and withdrawals through the application's transaction history.
+
+![Transaction History](screenshots/transaction-history.png)
+
 ## Features
 
 - Create and manage different types of bank accounts
